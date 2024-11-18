@@ -1,3 +1,16 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": "a700",
+      "title": "rr",
+      "author": "eee",
+      "status": "Read"
+    },
+    {
+      "id": "3c32",
+      "title": "tt",
+      "author": "rr",
+      "status": "Currently Reading"
+    }
+  ]
 }
